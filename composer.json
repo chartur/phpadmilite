@@ -1,6 +1,6 @@
 {
   "name": "chart/phpadmilite",
-  "type": "Web Application",
+  "type": "library",
   "description": "Sqlite manage area with php.",
   "keywords": ["sqlite","phpmyadmin","sqlite editor","local database editor"],
   "homepage": "https://admilite.com",
