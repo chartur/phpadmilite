@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url("../fonts/Nunito-Regular.ttf");
+}
+@font-face {
+    font-family: 'IndieFlower';
+    src: url("../fonts/IndieFlower.ttf");
+}
+
+*{
+    font-family: 'Nunito';
+}
+a, a:hover{
+    color:inherit;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+.container{
+    max-width: 95%!important;
+}
+.left-bars{
+    padding: 30px;
+    height: 100vh;
+    background: #FAFAFA;
+}
+.left-bars h1 span{
+    font-family: inherit;
+}
+.under-menu{
+    color:#15bc13;
+    font-size: 18px;
+}
+.under-menu li{
+    padding: 5px;
+}
+.under-menu li img{
+    width: 30px;
+}
+textarea#code{
+    width: 100%;
+}
+.CodeMirror{
+    border: 3px solid #e0e0e0;
+}

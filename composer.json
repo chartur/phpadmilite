@@ -1,0 +1,16 @@
+{
+  "name": "your-brand-name/your-project",
+  "type": "Web Application",
+  "description": "Sqlite manage area with php.",
+  "keywords": ["sqlite","phpmyadmin","sqlite editor","local database editor"],
+  "homepage": "https://admilite.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Artur Chilingaryan",
+      "email": "1995.chilingaryan@gmail.com",
+      "homepage": "https://www.facebook.com/chilingaryan1995",
+      "role": "Developer"
+    }
+  ],
+}
